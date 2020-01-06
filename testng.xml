@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Actitime">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.actiTIME.Login.VerifyActiLoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Actitime -->
